@@ -30,3 +30,6 @@ Click "Sign In"
 
 Verify Error Message is Posted
     page should contain element      //div[@class="error"]
+
+
+    #comments
